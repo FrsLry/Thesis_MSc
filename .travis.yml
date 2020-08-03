@@ -25,9 +25,10 @@ script:
   # Texliveonfly will download packages automatically
   - texliveonfly Main.tex
   # You can use latexmk to automatically handle bibtex and references (recommended)
-  - latexmk -pdf Main.tex
+  #- latexmk -pdf Main.tex
 
   # But you could use any other compiler as well instead of latexmk. Example:
+   - lualatex Main.tex
 #  - pdflatex main.tex
 #  - bibtex main
 #  - pdflatex main.tex
