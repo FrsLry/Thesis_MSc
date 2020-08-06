@@ -13,5 +13,8 @@ collection-fontsrecommended
 luaotfload
 luatexbase
 
+# Misc. packages
+wrapfig
+
 # texliveonfly does not detect the following packages automatically
 minted fvextra upquote lineno xstring framed caption
