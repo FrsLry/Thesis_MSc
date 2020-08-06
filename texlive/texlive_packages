@@ -25,6 +25,7 @@ multirow
 float
 pdfpages
 fancyref
+cleveref
 
 # texliveonfly does not detect the following packages automatically
 minted fvextra upquote lineno xstring framed caption
