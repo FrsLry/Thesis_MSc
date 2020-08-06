@@ -23,6 +23,7 @@ soul
 setspace
 multirow
 float
+pdfpages
 
 # texliveonfly does not detect the following packages automatically
 minted fvextra upquote lineno xstring framed caption
