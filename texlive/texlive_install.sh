@@ -31,6 +31,3 @@ tlmgr option -- autobackup 0
 
 # Update the TL install but add nothing new
 tlmgr update --self --all --no-auto-install
-
-# exit successfully if pdf is present or with error if not present
-[ -f $2.pdf ] && exit 0 || exit 1
