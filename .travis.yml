@@ -11,3 +11,4 @@ language: generic
 script: 
   - "texliveonfly Main.tex"
   - "lualatex Main.tex"
+  - "lualatex Main.tex"
